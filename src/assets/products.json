@@ -1,0 +1,11 @@
+{
+  "products": [
+    { "price": 110, "currency": "dollar", "name": "tomato1" },
+    { "price": 111, "currency": "dollar", "name": "tomato2" },
+    { "price": 112, "currency": "dollar", "name": "tomato3" },
+    { "price": 113, "currency": "euro", "name": "tomato4" },
+    { "price": 114, "currency": "euro", "name": "tomato5" },
+    { "price": 115, "currency": "euro", "name": "tomato6" },
+    { "price": 116, "currency": "euro", "name": "tomato7" }
+  ]
+}
